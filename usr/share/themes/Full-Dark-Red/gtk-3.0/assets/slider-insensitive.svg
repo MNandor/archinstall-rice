@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18"
+   height="18"
+   viewBox="0 0 18 18"
+   version="1.1"
+   id="svg828"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="slider-insensitive.svg">
+  <defs
+     id="defs822">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1027"
+       id="radialGradient1029"
+       cx="8.0180855"
+       cy="300.74857"
+       fx="8.0180855"
+       fy="300.74857"
+       r="8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.1808001e-6,1.2547998,-1.2485922,1.1390973e-6,383.53044,290.68713)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1027">
+      <stop
+         style="stop-color:#7f7f7f;stop-opacity:1;"
+         offset="0"
+         id="stop1023" />
+      <stop
+         style="stop-color:#7f7f7f;stop-opacity:0;"
+         offset="1"
+         id="stop1025" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.678384"
+     inkscape:cx="-0.072343084"
+     inkscape:cy="8.151789"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata825">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-290.76665)">
+    <g
+       id="g838">
+      <rect
+         rx="18"
+         y="290.7666"
+         x="0"
+         height="18"
+         width="18"
+         id="rect4526"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.70000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(1,-1.0000126)"
+         id="g835">
+        <g
+           id="g1038"
+           transform="translate(0,-1.2597656e-5)">
+          <g
+             id="g1033">
+            <rect
+               style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect817-5"
+               width="16"
+               height="16"
+               x="0"
+               y="292.76666"
+               rx="16" />
+            <rect
+               style="opacity:1;fill:url(#radialGradient1029);fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect817"
+               width="16"
+               height="16"
+               x="0"
+               y="292.76666"
+               rx="16" />
+          </g>
+        </g>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#828282;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect820"
+           width="14"
+           height="14"
+           x="1"
+           y="293.76666"
+           rx="14" />
+      </g>
+    </g>
+  </g>
+</svg>
