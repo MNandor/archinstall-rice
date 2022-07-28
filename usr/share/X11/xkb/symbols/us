@@ -54,6 +54,7 @@ xkb_symbols "basic" {
     key <AB10> {	[     slash,	question	]	};
 
     key <BKSL> {	[ backslash,         bar, U0171,	U0170	]	};
+    key <SPCE> { [        space,        space,           U2423,     nobreakspace ] };
 
     include "level3(ralt_switch)"
 
