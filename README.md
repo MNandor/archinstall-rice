@@ -1,3 +1,8 @@
+# Archinstall Rice
+
+A set of files to be gnu `stow`-ed when I reintall my OS.
+`linux`
+
 Please do both the cloning and the stowing as root so the ownership is set correctly.
 
 `us` is an existing keyboard layout file. We need to remove it so stow can override it with out own.
