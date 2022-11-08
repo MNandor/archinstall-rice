@@ -10,9 +10,12 @@ Please do both the cloning and the stowing as root so the ownership is set corre
 sudo rm /usr/share/x11/xkc/symbols/us
 ```
 
-```
-sudo stow target=/ --simulate .
-sudo stow target=/ .
+GNU Stow doesn't like to override. Use `git restore` as a workaround.
+
+```bash
+sudo stow --target=/ --simulate .
+sudo stow --target=/ --adopt .
+git restore .
 ```
 
 To set the GTK theme:
